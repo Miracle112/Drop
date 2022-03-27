@@ -1,0 +1,12 @@
+com/mygdx/game/Drop.java
+ com.mygdx.game.Drop
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+com/mygdx/game/Star.java
+ com.mygdx.game.Star
+com/mygdx/game/MainMenuScreen.java
+ com.mygdx.game.MainMenuScreen
+com/mygdx/game/InfinityLvl.java
+ com.mygdx.game.InfinityLvl
+com/mygdx/game/Thx.java
+ com.mygdx.game.Thx
